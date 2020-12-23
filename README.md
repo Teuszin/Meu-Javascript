@@ -20,8 +20,14 @@
  Surgimento do JavaScript
 
  - Tecnologias a se aprender:
- 
-     • Jquery • Angular • React • Vue • Electron • Ionic • Cordova
+
+     • Jquery 
+     • Angular 
+     • React 
+     • Vue 
+     • Electron 
+     • Ionic 
+     • Cordova
 
      • Phaser • PixiJS • Impact • Melon.Js • CraftyJs
 
