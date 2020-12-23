@@ -1,7 +1,7 @@
 # Meu Javascript
  Aprendendo Java
 
- =-=-= Aula 1 =-=-=
+ =-=-=-= Aula 1 =-=-=-=
 
  Cliente x Server
     /\        /\ 
@@ -15,7 +15,7 @@
      • Design (Estilo) -> Css
      • Programação (Interação) -> **JavaScritpt**
 
- =-=-= Aula 2 =-=-=
+ =-=-=-= Aula 2 =-=-=-=
  
  Surgimento do JavaScript
 
@@ -24,3 +24,14 @@
 
  • Phaser • PixiJS • Impact • Melon.Js • CraftyJs
 
+ =-=-=-= Aula 3 =-=-=-=
+
+ Primeiros Passos
+
+ Bibliografia:
+  • JapaScript - O Guia Definitivo - Davic Flanagun
+  • JapaScript - Guia do Programador - Mauricio Samisilva
+  ○ Guia de Referência da [Mozilla](https://developer.mozilla.org/pt-BR/)
+  ○ Guia de Referência da [Ecma](https://www.ecma-international.org/)
+
+- Instalação do Node.js (o Visual Code eu ja tinha)
