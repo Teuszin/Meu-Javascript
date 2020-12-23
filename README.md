@@ -19,19 +19,21 @@
  
  Surgimento do JavaScript
 
- Tecnologias a se aprender:
- • Jquery • Angular • React • Vue • Electron • Ionic • Cordova
+ - Tecnologias a se aprender:
+ 
+     • Jquery • Angular • React • Vue • Electron • Ionic • Cordova
 
- • Phaser • PixiJS • Impact • Melon.Js • CraftyJs
+     • Phaser • PixiJS • Impact • Melon.Js • CraftyJs
 
  =-=-=-= Aula 3 =-=-=-=
 
  Primeiros Passos
 
- Bibliografia:
-  • JapaScript - O Guia Definitivo - Davic Flanagun
-  • JapaScript - Guia do Programador - Mauricio Samisilva
-  ○ Guia de Referência da [Mozilla](https://developer.mozilla.org/pt-BR/)
-  ○ Guia de Referência da [Ecma](https://www.ecma-international.org/)
+ - Bibliografia:
+
+     • JapaScript - O Guia Definitivo - Davic Flanagun
+     • JapaScript - Guia do Programador - Mauricio Samisilva
+     ○ Guia de Referência da [Mozilla](https://developer.mozilla.org/pt-BR/)
+     ○ Guia de Referência da [Ecma](https://www.ecma-international.org/)
 
 - Instalação do Node.js (o Visual Code eu ja tinha)
