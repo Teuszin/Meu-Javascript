@@ -29,7 +29,11 @@
      • Ionic 
      • Cordova
 
-     • Phaser • PixiJS • Impact • Melon.Js • CraftyJs
+     • Phaser 
+     • PixiJS 
+     • Impact 
+     • Melon.Js 
+     • CraftyJs
 
  =-=-=-= Aula 3 =-=-=-=
 
