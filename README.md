@@ -1,7 +1,7 @@
 # Meu Javascript
  Aprendendo Java
 
- =-=-=-= Aula 1 =-=-=-=
+ =-=-=-=-= Aula 1 =-=-=-=-=
 
  Cliente x Server
     /\        /\ 
@@ -15,7 +15,7 @@
      • Design (Estilo) -> Css
      • Programação (Interação) -> **JavaScritpt**
 
- =-=-=-= Aula 2 =-=-=-=
+ =-=-=-=-= Aula 2 =-=-=-=-=
  
  Surgimento do JavaScript
 
@@ -35,7 +35,7 @@
      • Melon.Js 
      • CraftyJs
 
- =-=-=-= Aula 3 =-=-=-=
+ =-=-=-=-= Aula 3 =-=-=-=-=
 
  Primeiros Passos
 
@@ -47,3 +47,5 @@
      ○ Guia de Referência da [Ecma](https://www.ecma-international.org/)
 
 - Instalação do Node.js (o Visual Code eu ja tinha)
+
+=-=-=-=-= Aula 4 =-=-=-=-=
