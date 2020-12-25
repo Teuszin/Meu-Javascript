@@ -49,3 +49,6 @@
 - Instalação do Node.js (o Visual Code eu ja tinha)
 
 =-=-=-=-= Aula 4 =-=-=-=-=
+
+- Head: Onde vão as configurações
+- Body: Onde vai aparecer no site
