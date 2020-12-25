@@ -52,3 +52,4 @@
 
 - Head: Onde vão as configurações
 - Body: Onde vai aparecer no site
+    - Window: Pra aparecer um prompit
