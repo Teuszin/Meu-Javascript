@@ -69,8 +69,26 @@
         * É possível usar acentos e símbolos
         * Não pode conter espaços
         * Não podem ser palavras reservadas (palavras que o JS usa como comandos)
+        * Maiúsculas e minúsculas fazem diferença
 
     - O valor atribuído a ela, chama-se __Atribuição__
 
     * " = " = Ler-se como __Recebe__ (se receber um "null" significa que ficará vazio)
-    * " __' '__ " , " __" "__ " e " __` `__ " = Servem para delimitar strings
+    * [ __''__ ] , [ __""__ ] e [ __``__ " ] = Servem para delimitar strings
+
+ - Tipos Primitívos (primordiais)
+    * Number
+        * Infinity
+        * NaN
+    * String
+    * Boolean
+    * Null
+    * Undefined
+    * Object
+        * Array
+    * Function
+
+    O comando __typeof__ identifica o tipo de um valor ou de uma variavel
+
+ - Utilizando o Node.Js
+
