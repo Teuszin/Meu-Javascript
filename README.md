@@ -73,4 +73,4 @@
     - O valor atribuído a ela, chama-se __Atribuição__
 
     * " = " = Ler-se como __Recebe__ (se receber um "null" significa que ficará vazio)
-    * " '' " , " "" " e "``" = Servem para delimitar strings
+    * " __' '__ " , " __" "__ " e " __` `__ " = Servem para delimitar strings
