@@ -9,7 +9,7 @@
 
      • Conteúdo -> Html
      • Design (Estilo) -> Css
-     • Programação (Interação) -> __JavaScritpt__
+     • Programação (Interação) -> JavaScritpt
 
  =-=-=-=-= Aula 2 =-=-=-=-=
  
@@ -33,9 +33,9 @@
 
  =-=-=-=-= Aula 3 =-=-=-=-=
 
- Primeiros Passos
+ 
 
- Bibliografia:
+ - Bibliografia:
 
      • JapaScript - O Guia Definitivo - Davic Flanagun
      • JapaScript - Guia do Programador - Mauricio Samisilva
