@@ -19,7 +19,7 @@
  
  Surgimento do JavaScript
 
- - Tecnologias a se aprender:
+  Tecnologias a se aprender:
 
      • Jquery 
      • Angular 
@@ -33,7 +33,7 @@
      • PixiJS 
      • Impact 
      • Melon.Js 
-     • CraftyJs
+     • **CraftyJs**
 
  =-=-=-=-= Aula 3 =-=-=-=-=
 
@@ -53,3 +53,6 @@
 - Head: Onde vão as configurações
 - Body: Onde vai aparecer no site
     - Window: Pra aparecer um prompit
+
+=-=-=-=-= Aula 5 =-=-=-=-=
+
