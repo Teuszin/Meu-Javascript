@@ -3,9 +3,9 @@
 
  =-=-=-=-= Aula 1 =-=-=-=-=
 
- Cliente x Server
+ 'Cliente x Server
     /\        /\ 
-  A gente    Eles
+  A gente    Eles'
 
  Surgiu como uma tecnologia para clientes (tecnologia "client side")
 
