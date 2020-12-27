@@ -9,7 +9,7 @@
 
      * Conteúdo -> Html
      * Design (Estilo) -> Css
-     * Programação (Interação) -> JavaScritpt
+     * Programação (Interação) -> __JavaScritpt__
 
  =-=-=-=-= Aula 2 =-=-=-=-=
  
