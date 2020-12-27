@@ -62,7 +62,7 @@
 
  - Variáveis e Tipos Primitivos:
     - Pode ser nomeado como "var" ou "let"
-    - A palavra que vem depois, chama-se __identificador__, o que irá dar nome a variável 
+    - A palavra que vem depois, chama-se __Identificador__, o que irá dar nome a variável 
         * Pode começar com letra, $ ou _
         * Não pode começar com números
         * Pode conter letras e númeors
@@ -70,7 +70,7 @@
         * Não pode conter espaços
         * Não podem ser palavras reservadas (palavras que o JS usa como comandos)
 
-    - O valor atribuído a ela, chama-se __atribuição__
+    - O valor atribuído a ela, chama-se __Atribuição__
 
-    " = " = Ler-se como __Recebe__ (se receber um "null" significa que ficará vazio)
-    " '' " , " "" " e "``" = Servem para delimitar strings
+    * " = " = Ler-se como __Recebe__ (se receber um "null" significa que ficará vazio)
+    * " '' " , " "" " e "``" = Servem para delimitar strings
