@@ -49,9 +49,9 @@
 - Head: Onde vão as configurações
 - Body: Onde vai aparecer no site
     - Window: Pra aparecer um prompt
-     - .alert() = Exibe prompt de alerta
-     - .confirm() = Exibe prompt de confirmação
-     - .prompt() = Exibe prompt de pergunta
+        - .alert() = Exibe prompt de alerta
+        - .confirm() = Exibe prompt de confirmação
+        - .prompt() = Exibe prompt de pergunta
 
 =-=-=-=-= Aula 5 =-=-=-=-=
 
