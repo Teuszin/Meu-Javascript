@@ -42,16 +42,35 @@
      * Guia de Referência da [Mozilla](https://developer.mozilla.org/pt-BR/)
      * Guia de Referência da [Ecma](https://www.ecma-international.org/)
 
-- Instalação do Node.js (o Visual Code eu ja tinha)
+ - Instalação do Node.js (o Visual Code eu ja tinha)
 
-=-=-=-=-= Aula 4 =-=-=-=-=
+ =-=-=-=-= Aula 4 =-=-=-=-=
 
-- Head: Onde vão as configurações
-- Body: Onde vai aparecer no site
+ - Head: Onde vão as configurações
+ - Body: Onde vai aparecer no site
     - Window: Pra aparecer um prompt
         - .alert() = Exibe prompt de alerta
         - .confirm() = Exibe prompt de confirmação
         - .prompt() = Exibe prompt de pergunta
 
-=-=-=-=-= Aula 5 =-=-=-=-=
+ =-=-=-=-= Aula 5 =-=-=-=-=
 
+ - Comentários:
+    - // = comentários de uma única linha
+    - /* */ = comentários de mais uma linha
+    (Esse formato só funciona dentro da parte de Javasscript)
+
+ - Variáveis e Tipos Primitivos:
+    - Pode ser nomeado como "var" ou "let"
+    - A palavra que vem depois, chama-se __identificador__, o que irá dar nome a variável 
+        * Pode começar com letra, $ ou _
+        * Não pode começar com números
+        * Pode conter letras e númeors
+        * É possível usar acentos e símbolos
+        * Não pode conter espaços
+        * Não podem ser palavras reservadas (palavras que o JS usa como comandos)
+
+    - O valor atribuído a ela, chama-se __atribuição__
+
+    " = " = Ler-se como __Recebe__ (se receber um "null" significa que ficará vazio)
+    " '' " , " "" " e "``" = Servem para delimitar strings
