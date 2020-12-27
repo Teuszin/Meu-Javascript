@@ -33,7 +33,7 @@
      • PixiJS 
      • Impact 
      • Melon.Js 
-     • **CraftyJs**
+     • CraftyJs
 
  =-=-=-=-= Aula 3 =-=-=-=-=
 
