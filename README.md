@@ -5,11 +5,11 @@
 
  Surgiu como uma tecnologia para clientes (Tecnologia "client side")
 
-  Cliente (Website) - Compostor por:
+ - Cliente (Website) - Compostor por:
 
-     • Conteúdo -> Html
-     • Design (Estilo) -> Css
-     • Programação (Interação) -> JavaScritpt
+     * Conteúdo -> Html
+     * Design (Estilo) -> Css
+     * Programação (Interação) -> JavaScritpt
 
  =-=-=-=-= Aula 2 =-=-=-=-=
  
