@@ -3,18 +3,13 @@
 
  =-=-=-=-= Aula 1 =-=-=-=-=
 
- ```Cliente x Server
-    /\        /\ 
-  A gente    Eles
- ```
-
- Surgiu como uma tecnologia para clientes (tecnologia "client side")
+ Surgiu como uma tecnologia para clientes (Tecnologia "client side")
 
   Cliente (Website) - Compostor por:
 
      • Conteúdo -> Html
      • Design (Estilo) -> Css
-     • Programação (Interação) -> **JavaScritpt**
+     • Programação (Interação) -> __JavaScritpt__
 
  =-=-=-=-= Aula 2 =-=-=-=-=
  
