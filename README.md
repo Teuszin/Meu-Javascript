@@ -28,7 +28,7 @@
      • Electron 
      • Ionic 
      • Cordova
-     -----
+     ------//------
      • Phaser 
      • PixiJS 
      • Impact 
@@ -39,7 +39,7 @@
 
  Primeiros Passos
 
- - Bibliografia:
+ Bibliografia:
 
      • JapaScript - O Guia Definitivo - Davic Flanagun
      • JapaScript - Guia do Programador - Mauricio Samisilva
