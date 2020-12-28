@@ -106,8 +106,9 @@
     * String(n) = Converter pra String
     * n.toString() = Converter pra String
 
- - Formatando Strings
-    var algo = "aleatório"
+ - Formatando Strings:
+
+    - var algo = "aleatório"
 
     * "exemplo __algo__" > Não faz interpolação
     * "exemplo" + __algo__ > Usa concatenação
@@ -117,7 +118,7 @@
     * __algo__.toUpperCase() > Poe tudo pra MAIÚSCULO
     * __algo__.toLowerCase() > Poe tudo pra minúsculo
 
- - Formatando Numbers
+ - Formatando Numbers:
 
     * __algo__.toFixed() = Difinir a quantidade de casas decimais
     * __algo__.toFixed().replace('algo','outra coisa') = Mudar de ponto pra virgula por exemplo
