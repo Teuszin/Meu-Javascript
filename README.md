@@ -108,7 +108,7 @@
 
  - Formatando Strings:
 
- var algo = "aleatório"
+  var algo = "aleatório"
 
     * "exemplo __algo__" > Não faz interpolação
     * "exemplo" + __algo__ > Usa concatenação
