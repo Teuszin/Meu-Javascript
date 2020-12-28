@@ -129,12 +129,19 @@
  - Principais Operadores
 
     * Aritméticos
-      * + , - , * , / , % , **
+      * " + , - , * , / , % , ** "
       * (Adição, Subtração, Multiplicação, Divisão, Resto da Divisão e Potenciação)
       * Ordem de Precedência:
          * ( ) , ** , * / % , + -
          * ---------------------->
+
     * Atribuição
+      * Simples: " = " Atribui um valor a uma variavel,ex: a = b
+      * Auto-Atribuoção: Vai renovando o valor da mesma variavel, ex: a += 5
+      * Incremento: Sempre adiciona 1 à variavel, ex: a++ (existe o pós e o pré)
+
     * Relacionais
+
     * Lógicos
+    
     * Ternário
