@@ -56,12 +56,13 @@
  =-=-=-=-= Aula 5 =-=-=-=-=
 
  - Comentários:
-    - // = comentários de uma única linha
-    - /* */ = comentários de mais uma linha
-    (Esse formato só funciona dentro da parte de Javasscript)
+    - // = comentários de uma única linha > Apenas em JavaScript
+    - <!-- --> = comentários de mais uma linha > Apenas em html
+    - /* */ = comentários de mais uma linha > JavaScript e Css
+    
 
  - Variáveis e Tipos Primitivos:
-    - Pode ser nomeado como "var" ou "let"
+    - Pode ser nomeado como "var", "const" ou "let"
     - A palavra que vem depois, chama-se __Identificador__, o que irá dar nome a variável 
         * Pode começar com letra, $ ou _
         * Não pode começar com números
