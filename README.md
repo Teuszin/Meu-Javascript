@@ -107,7 +107,12 @@
     * n.toString() = Converter pra String
 
  - Formatando Strings
-    * var algo = "aleatório"
+    var algo = "aleatório"
+
     * "exemplo __algo__" > Não faz interpolação
     * "exemplo" + __algo__ > Usa concatenação
     * `exemplo ${__algo__}` > Usa __template string__ (tem que usar as crases)
+
+    * __algo__.length > Quantos caracteres tem a String
+    * __algo__.toUpperCase() > Poe tudo pra MAIÚSCULO
+    * __algo__.toLowerCase() > Poe tudo pra minúsculo
