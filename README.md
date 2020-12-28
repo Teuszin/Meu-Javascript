@@ -15,7 +15,7 @@
  
  Surgimento do JavaScript
 
-  Tecnologias a se aprender:
+ Tecnologias a se aprender:
 
      • Jquery 
      • Angular 
@@ -93,3 +93,21 @@
 
  - Utilizando o Node.Js
 
+ =-=-=-=-= Aula 6 =-=-=-=-=
+
+ Tratamento de Dados
+
+ - Converter para Number:
+    * Number.parseInt(n) = Converter pra inteiro
+    * Number.parseFloat(n) = Converter pra flutuante
+    * Number(n) = Converter pra Number
+
+ - Converter para String:
+    * String(n) = Converter pra String
+    * n.toString() = Converter pra String
+
+ - Formatando Strings
+    * var algo = "aleatório"
+    * "exemplo __algo__" > Não faz interpolação
+    * "exemplo" + __algo__ > Usa concatenação
+    * `exemplo ${__algo__}` > Usa __template string__ (tem que usar as crases)
