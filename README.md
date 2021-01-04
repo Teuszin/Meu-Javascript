@@ -161,3 +161,5 @@
       * ? , :
       * TESTE ? TRUE : FALSE
       * (Teste lógico [TRUE OU FALSE], O que vai acontecer quando o teste der TRUE, O que vai acontecer quando o teste false)
+
+      =-=-=-=-= Aula 9 =-=-=-=-=
