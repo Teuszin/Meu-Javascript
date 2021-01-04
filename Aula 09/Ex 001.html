@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testando o DOM</title>
+    <style>
+        body {
+            background: #8ba6d8;
+            color: cornsilk;
+            font: normal 10pt arial;
+        }
+    </style>
+    
+<body>
+    <h1>Salve Salve</h1>
+    <h2>Tudo Tranquilo?</h2>
+    <p>To aprendendo a usar um treco chamado DOM</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
+    <div id= "msg">clica aqui</div>
+    <p></p>
+    <script>
+        var p1 = document.getElementsByTagName("p")[1]
+        // como o comando é no plural (elements). o [numero de aparição] é necessario
+
+        window.document.write("Está escrito isso: " + p1.innerHTML)
+
+        // O innerText pega o texto sem a formatação
+
+        // O innertHtml pega o texto e a formatação
+
+        p1.style.color = 'blue'
+        var d = window.document.getElementById("msg")
+        d.style.background = "green"
+        var d = window.document.querySelector('div#msg')
+
+        // se for ID, é "#". Se for Class, é "."
+
+        d.style.color = 'white'
+
+    </script>
+    
+</body>
+</html>

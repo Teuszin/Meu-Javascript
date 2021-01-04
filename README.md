@@ -162,4 +162,34 @@
       * TESTE ? TRUE : FALSE
       * (Teste lógico [TRUE OU FALSE], O que vai acontecer quando o teste der TRUE, O que vai acontecer quando o teste false)
 
-      =-=-=-=-= Aula 9 =-=-=-=-=
+ =-=-=-=-= Aula 9 =-=-=-=-=
+
+ - Iniciando com o __DOM__
+
+   É um acrônimo de Document Object Model (Modelo de Objetos para Documento [Conjuntos de objetos dentro do navegador, que vão dar acesso ao Site])
+
+ - Árvore Dom:
+   Quem vem em cima, é parent do de baixo, e o de baixo é child de quem  ta em cima
+    * window
+      * location (Localização do site [URL] e localição do Usuário)
+      * document (Dumento Atual)
+         * Html
+            * head
+               * meta
+               * title
+               ...
+            * body
+               * h1
+               * p
+                  * strong
+               * div
+               ...
+      * history (Guarda a navegaçãp no site)
+      ...
+   
+   Todos são elementos, e podem ser selecionados por:
+    * Marma = getElementsByTagName()
+    * ID = getElementById()
+    * Nome = getElementsByName()
+    * Clasee = getElementsByClassName()
+    * Seletor (css) =  querySelector() // querySelectorAll() < prural
