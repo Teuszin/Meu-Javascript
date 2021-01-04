@@ -126,7 +126,7 @@
 
  =-=-=-=-= Aula 7 =-=-=-=-=
 
- - Principais Operadores
+ - Principais Operadores part. 1
 
     * Aritméticos
       * " + , - , * , / , % , ** "
@@ -140,8 +140,24 @@
       * Auto-Atribuoção: Vai renovando o valor da mesma variavel, ex: a += 5
       * Incremento: Sempre adiciona 1 à variavel, ex: a++ (existe o pós e o pré)
 
+ =-=-=-=-= Aula 8 =-=-=-=-=
+
+ - Principais Operadores part. 2
+
     * Relacionais
+      * >, <, >=, <=, ==, !=
+      * (Maior, Menor, Maior Igual, Menor igual, Igual, Diferente)
+      * Vão dar valores booleando
+      * Relacionais de Identidade
+         * ex: 5 == "5" (vai dar TRUE, por que o sinal de igualdade "==", não testa o tipo)
+         para isso existe o Relacional de Identidade Restrita, o "===", isso testaria se os dois 5's são identicos, ou seja, do mesmo valor e do mesmo tipo, então daria "FALSE"
 
     * Lógicos
-    
+      * !, &&, ||
+      * (Negação [NÃO], Conjunção [E], Disjunção [OU], a ordem de execução é essa também)
+      * Eles só vao dar TRUE OU FALSE como resultado
+
     * Ternário
+      * ? , :
+      * TESTE ? TRUE : FALSE
+      * (Teste lógico [TRUE OU FALSE], O que vai acontecer quando o teste der TRUE, O que vai acontecer quando o teste false)
