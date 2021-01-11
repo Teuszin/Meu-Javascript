@@ -210,6 +210,8 @@
    * ex:
    ~~~Javascript
    Function ação(parametros){
-
+      bloco
    }
    ~~~
+
+ - Da pra detectar erros, diretamente do DEV (inspesionar) do navedagor 
