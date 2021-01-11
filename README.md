@@ -214,4 +214,19 @@
    }
    ~~~
 
- - Da pra detectar erros, diretamente do DEV (inspesionar) do navedagor 
+ - Da pra detectar erros, diretamente do DEV (inspesionar) do navegador 
+
+ =-=-=-=-= Aula 11 =-=-=-=-=
+
+ - Condições
+   existem as simples e as 
+   nas simples so tem o if, sem o else, ou seja, se der false, nada acontece
+
+ * If
+   ~~~Javascript
+   if (condição) {
+       true
+   }else{
+       false
+   }
+   ~~~
