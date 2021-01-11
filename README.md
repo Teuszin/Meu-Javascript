@@ -207,9 +207,9 @@
 
  - Funções = Conjunto de códigos que só vão ser executadas, quando o evento ocorrer
    * Bloco = É oque chamamos o espaço delimitado elas { }
-   ex:
-   ´´´
+   * ex:
+   ~~~Javascript
    Function ação(parametros){
 
    }
-   ´´´
+   ~~~
