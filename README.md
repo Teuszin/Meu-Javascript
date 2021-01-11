@@ -166,7 +166,7 @@
 
  - Iniciando com o __DOM__
 
-   É um acrônimo de Document Object Model (Modelo de Objetos para Documento [Conjuntos de objetos dentro do navegador, que vão dar acesso ao Site])
+   É um acrônimo de Document Object Model (Modelo de Objetos para Documento [Conjuntos de objetos dentro do navegador, que vão dar acesso facilitado ao JS do Site])
 
  - Árvore Dom:
    Quem vem em cima, é parent do de baixo, e o de baixo é child de quem  ta em cima
@@ -193,3 +193,23 @@
     * Nome = getElementsByName()
     * Clasee = getElementsByClassName()
     * Seletor (css) =  querySelector() // querySelectorAll() < prural
+
+ =-=-=-=-= Aula 10 =-=-=-=-=
+
+ - [Eventos DOM](https://developer.mozilla.org/pt-BR/docs/Web/Events) = Tudo aquilo que possa acontecer com qualquer elemento (podem ser feitos no html ou no JS)
+   - Eventos de Mouse:
+      * mouseneter = trigga quando o mouse entra no elemento
+      * mousemove = trigga quando o mouse se move dentro do elemento
+      * mousedown = trigga quando se segura o click do mouse dentro do elemento
+      * mouseup = trigga quando o se solta o click no mouse dentro do elemento
+      * click = trigga quando o mouse clicka entro do elementro
+      * mouseout = trigga quando o mouse sai do elemento
+
+ - Funções = Conjunto de códigos que só vão ser executadas, quando o evento ocorrer
+   * Bloco = É oque chamamos o espaço delimitado elas { }
+   ex:
+   ´´´
+   Function ação(parametros){
+
+   }
+   ´´´
