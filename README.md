@@ -219,7 +219,7 @@
  =-=-=-=-= Aula 11 =-=-=-=-=
 
  - Condições
-   existem as simples e as 
+   existem as simples e as compostas
    nas simples so tem o if, sem o else, ou seja, se der false, nada acontece
 
  * If

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio</title>
+</head>
+<body>
+    <h1>Nacionalidade</h1> 
+    <input type="text" name="pais" id="pais">
+    <input type="button" value="checagem" onclick="checkar()">
+    <div id='res'>
+
+    </div>
+    <script>
+        function checkar(){
+            var pais =document.getElementById('pais')
+            var resp = document.querySelector('div#res')
+            resp.innerHTML = `<p>Sua Velocidade atual km/h </p>`
+            if (pais = 'brasil') {
+                resp.innerHTML = 'Voce é brasileiro'
+
+            }
+            
+        }   
+            
+        
+    </script>
+</body>
+</html>
