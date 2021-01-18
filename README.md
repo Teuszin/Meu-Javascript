@@ -219,7 +219,8 @@
  =-=-=-=-= Aula 11 =-=-=-=-=
 
  - Condições
-   existem as simples e as compostas
+   * Simples
+   * Compostas
    nas simples so tem o if, sem o else, ou seja, se der false, nada acontece
 
  * If
@@ -230,3 +231,32 @@
        false
    }
    ~~~
+
+ =-=-=-=-= Aula 12 =-=-=-=-=
+
+ - Condições part.2
+   * Aninhadas = é a junção de varias condições compostas, uma dentro da outra
+   * Multiplas = é onde entra o switch
+
+ * Switch = o swtich é bom pra testar dados pontuais e precisos, caso precise de valores intermediarios, intervalos ou <,> a algo, é melhor usar o if mesmo
+   
+   ~~~Javascript
+   switch (condição){
+      case valor 1:
+         bloco de comandos
+         break
+      case valor 2:
+         bloco de comandos
+         break
+      case valor 3:
+         bloco de comandos
+         break
+      .
+      .
+      .
+      default:
+         break(é opcional)
+   }
+   ~~~
+   Nota: os break dos casos, sao __OBRIGATÓRIOS__, caso contrário, o código não funcionará corretamente || o Default funciona como o else, se os casos nao ocorrerem, passa pra ele
+   

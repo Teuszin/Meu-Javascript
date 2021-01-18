@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multas</title>
+</head>
+<body>
+    <h1>Sistema de Multas</h1>
+    <h3>Velocidade do Carro</h3>
+    <input type="text" name="vel" id="textvel">
+    <input type="button" value="calcular" onclick = "calculo()">
+    <div id ='res'>
+
+    </div>
+    <script>
+    
+        function calculo(){
+            var txtv = document.getElementById("textvel")
+            var res = document.querySelector('div#res')
+            
+            res.innerHTML = `<p>Sua Velocidade atual é ${txtv} km/h </p>`
+            if (vel = '123') {
+                res.innerHTML += "ce ta multado!"
+            }
+        }   
+    </script>
+</body>
+</html>
