@@ -259,4 +259,11 @@
    }
    ~~~
    Nota: os break dos casos, sao __OBRIGATÓRIOS__, caso contrário, o código não funcionará corretamente || o Default funciona como o else, se os casos nao ocorrerem, passa pra ele
-   
+
+
+ *=*-*=*-*=* Exercicios *=*-*=*-*=*
+
+ - Header = cabeçalho
+ - Section = seção de texto
+ - Div = divisões onde irá o conteúdo
+ - Footer = Rodapé
