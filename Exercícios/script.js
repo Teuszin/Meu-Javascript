@@ -5,7 +5,8 @@ function carregar(){
     var data = new Date()
     var hora = data.toLocaleTimeString()
     
-    msg.innerHTML = `Agora são ${hora}`
+   document.getElementById('msg').innerHTML=`Agora são <br> ${hora}`;
+
     var hora = data.getHours()
 
     if (hora < 5){
@@ -30,14 +31,8 @@ function carregar(){
         msghr.innerHTML = "Tenha Uma Otima Noite"
         
     }
-
-
-
-
-
-
-
-
 }   
 
-
+function initTime(){
+    setInterval(carregar,1000);
+}
