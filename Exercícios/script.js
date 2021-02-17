@@ -5,7 +5,7 @@ function carregar(){
     var data = new Date()
     var hora = data.toLocaleTimeString()
     
-   document.getElementById('msg').innerHTML=`Agora são <br> ${hora}`;
+   document.getElementById('msg').innerHTML=`Agora São <br> ${hora}`;
 
     var hora = data.getHours()
 
