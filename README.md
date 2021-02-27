@@ -269,3 +269,5 @@
  - Footer = Rodapé
 
  - onload="função" = ativa a função quando carregar a pagina
+
+  =-=-=-=-= Aula 13 =-=-=-=-=
