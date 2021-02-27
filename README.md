@@ -270,4 +270,43 @@
 
  - onload="função" = ativa a função quando carregar a pagina
 
-  =-=-=-=-= Aula 13 =-=-=-=-=
+ =-=-=-=-= Aula 13 =-=-=-=-=
+
+ - Repetições (Parte 1)
+
+ * While: irá repetir a função ENQUANTO for verdadeiro
+ (Estrutura de repetição com teste logico no inicio)
+  ex1:
+  ~~~Javascript
+   var c = 1
+   While(c <= 6){
+      console.log('AAAaaa'){
+         c++
+      }
+   }
+  ~~~
+  ex2:
+  ~~~Javascript
+   funciotion(comerPizza){
+      while(temFatia){
+         comerFatia()
+      }
+   }
+  ~~~
+
+ * Do-While = irá repetir a funçãp ENQUANTO a codição for verdadeira (porém ela vem no final)
+ (Estrutura de repetição com teste logico no final)
+
+  ~~~Javascript
+   do{
+      "Bloco"
+   }while(condição)
+  ~~~
+  ex: é identico no resultado, mas pode ser necessario em casos expecificos
+  ~~~Javascript
+   var c = 1
+   do{
+      console.log('AAAaaa'){
+      c++
+   }While(c <= 6
+  ~~~
