@@ -280,9 +280,8 @@
   ~~~Javascript
    var c = 1
    While(c <= 6){
-      console.log('AAAaaa'){
-         c++
-      }
+      console.log('AAAaaa')
+         c++ 
    }
   ~~~
   ex2:
@@ -310,3 +309,31 @@
       c++
    }While(c <= 6
   ~~~
+
+ =-=-=-=-= Aula 14 =-=-=-=-=
+ - Estrutura De Repetição com Variável de Controle
+   * Inicialização
+   * Teste Logico
+   * Incremento
+
+ - For (início;teste;incremento): Na primeira passagem, ele vai executar a inicialização e o teste, sendo o teste verdaceiro, ele irá executar o bloco, e depois voltar e ENQUANTO está voltando, ele executa a incrementação e depois refazer o teste. Até o teste ser falso, onde ele para de repetir e segue o  fluxo
+
+  ex: Reescrever o seguinte codigo com o For
+
+  ~~~Javascript
+   var c = 1
+   While(c <= 6){
+      console.log(`Passo ${c}`)
+      c++
+   }
+  ~~~
+
+  em For:
+
+  ~~~Javascript
+   for(var c =1;c <=6;c++){
+      console.log(`Passo ${c}`)
+   }
+  ~~~
+ 
+ - Depurador: Debug do Visual Studio (ou qualquer outro). Serve pra ver passo a passo, oque está acontecendo no código
